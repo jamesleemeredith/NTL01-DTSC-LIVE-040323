@@ -1,5 +1,12 @@
 ![](https://media.giphy.com/media/igDIvcIMMGIne/giphy.gif)
+<<<<<<< HEAD
 THIS IS THE NEW LINE OF CODE
+=======
+
+A THIRD line of code.
+
+
+>>>>>>> upstream/main
 ### Written Instructions to Connect to This Repository:
 
 1. FORK this repository, creating a copy on your own GitHub account
